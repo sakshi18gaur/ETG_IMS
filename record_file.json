@@ -1,0 +1,91 @@
+{ 
+
+    "101" : 
+                    { "Product_name" : "Dairy Milk" , "Price" : 50 , "Quantity" : 500 , "Expiry_time(in months)" : 3},
+
+    "102" : 
+                    { "Product_name" : "Munch" , "Price" : 30 , "Quantity" : 300 , "Expiry_time(in months)" : 5},
+
+    "103" : 
+                    { "Product_name" : "5 Star" , "Price" : 20 , "Quantity" : 250 , "Expiry_time(in months)" : 2},
+
+    "104" : 
+                    { "Product_name" : "Gems" , "Price" : 10 , "Quantity" : 150 , "Expiry_time(in months)" : 7},
+
+    "105" : 
+                    { "Product_name" : "Kurkure" , "Price" : 20 , "Quantity" : 400 , "Expiry_time(in months)" : 6},
+
+    "106" : 
+                    { "Product_name" : "Lays" , "Price" : 20 , "Quantity" : 340 , "Expiry_time(in months)" : 8},
+
+    "107" : 
+                    { "Product_name" : "Bournville" , "Price" : 10 , "Quantity" : 100 , "Expiry_time(in months)" : 3},
+
+    "108" : 
+                    { "Product_name" : "Chocopie" , "Price" : 30 , "Quantity" : 300 , "Expiry_time(in months)" : 3},
+
+    "109" :
+                    { "Product_name" : "Melody" , "Price" : 2 , "Quantity" : 500 , "Expiry_time(in months)" : 12},
+
+    "110" :
+                    { "Product_name" : "Kit Kat" , "Price" : 5 , "Quantity" : 300 , "Expiry_time(in months)" : 10},
+    "111" :
+                    { "Product_name" : "Ferro Rocher" , "Price" : 120 , "Quantity" : 200 , "Expiry_time(in months)" : 6},
+
+    "112" :
+                    { "Product_name" : "Guylian" , "Price" : 80 , "Quantity" : 290 , "Expiry_time(in months)" : 4},
+
+    "113" :
+                    { "Product_name" : "Patchi" , "Price" : 50 , "Quantity" : 800 , "Expiry_time(in months)" : 10},
+                    
+    "114" :
+                    { "Product_name" : "Mars Bar" , "Price" : 40 , "Quantity" : 150 , "Expiry_time(in months)" : 7},
+
+    "115" :
+                    { "Product_name" : "Snikers" , "Price" : 20 , "Quantity" : 250 , "Expiry_time(in months)" : 10},
+
+    "116" :
+                    { "Product_name" : "Galaxy" , "Price" : 35 , "Quantity" : 290 , "Expiry_time(in months)" : 6},
+
+    "117" :
+                    { "Product_name" : "Bingo" , "Price" : 10 , "Quantity" : 2000 , "Expiry_time(in months)" : 12},
+
+    "118" :
+                    { "Product_name" : "Too Yumm" , "Price" : 10 , "Quantity" : 900 , "Expiry_time(in months)" : 12},
+
+    "119" :
+                    { "Product_name" : "Haldiram Namkeen" , "Price" : 10 , "Quantity" : 3000 , "Expiry_time(in months)" : 10},
+
+    "120" :
+                    { "Product_name" : "Wheels Wafers" , "Price" : 20 , "Quantity" : 1200 , "Expiry_time(in months)" : 12},
+
+    "121" :
+                    { "Product_name" : "Parle-G" , "Price" : 5 , "Quantity" : 1600 , "Expiry_time(in months)" : 6},
+
+    "122" :
+                    { "Product_name" : "Fruit Cake" , "Price" : 30 , "Quantity" : 2500 , "Expiry_time(in months)" : 6},
+
+    "123" :
+                    { "Product_name" : "Little Heart" , "Price" : 20 , "Quantity" : 900 , "Expiry_time(in months)" : 8},
+
+    "124" :
+                    { "Product_name" : "Crax" , "Price" : 5 , "Quantity" : 1250 , "Expiry_time(in months)" : 10},
+
+    "125" :
+                    { "Product_name" : "Bikaji Bhujia" , "Price" : 10 , "Quantity" : 950 , "Expiry_time(in months)" : 6},
+
+    "126" :
+                    { "Product_name" : "Yellow Diamond Chips" , "Price" : 10 , "Quantity" : 200 , "Expiry_time(in months)" : 3},
+
+    "127" :
+                    { "Product_name" : "Maggie Noodles" , "Price" : 12 , "Quantity" : 200 , "Expiry_time(in months)" : 6},
+
+    "128" :
+                    { "Product_name" : "Sunfeast Yippee" , "Price" : 10 , "Quantity" : 2400 , "Expiry_time(in months)" : 8},
+
+    "129" :
+                    { "Product_name" : "MTR Sevai" , "Price" : 20 , "Quantity" : 290 , "Expiry_time(in months)" : 5},
+                    
+    "130" :
+                    { "Product_name" : "Safola Oats" , "Price" : 30 , "Quantity" : 300 , "Expiry_time(in months)" : 3}
+}
